@@ -6,7 +6,7 @@
 # About Me
 I'm a student at the University of Minho, and this repository brings together my programming and development projects. Here, you can find work carried out during my academic career, as well as personal projects. I'm always looking for new opportunities to learn and develop my skills.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R7ptide)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=R7ptide&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 My Programing Skills
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -16,5 +16,6 @@ I'm a student at the University of Minho, and this repository brings together my
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 
 Currently learning:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
